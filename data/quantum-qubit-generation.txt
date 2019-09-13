@@ -1,0 +1,7 @@
+Qubit Generation for Quantum Computing refers to patents that discuss the
+various means of generating qubits for use in a quantum mechanics based
+computing system. Types of qubits included superconducting loops, topological,
+quantum dot based and ion-trap methods as well as others. The excluded
+technologies are applications, algorithms and other auxiliary aspects of
+quantum computing that do not mention a hardware component, and hardware for
+other quantum phenomena outside of qubit generation.
