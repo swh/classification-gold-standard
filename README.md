@@ -8,3 +8,5 @@ The data for the gold standards can be found in the data/ directory, as TSV file
  * Serial no. - the serial number of the publication, to allow identification of the publication, in the EPO [country-code][number][kind-code] format.
  * Title - the title as published, to aid cross-checking
  * Publication date - date the patent was published by the PO
+
+Alongside the classification data are the scope notes, in a .txt file with the same base name.
